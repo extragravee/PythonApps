@@ -1,0 +1,1 @@
+This is a repository for ten python apps that I wanted to build following tutrials so I can learn how to use Python better. There will be addiotional data analystics projects I am doing at work, the python knowledge from which I will try to recreate here.
